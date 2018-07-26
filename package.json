@@ -1,0 +1,28 @@
+{
+  "name": "vanilla-js-toolkit",
+  "version": "1.0.0",
+  "description": "Vanilla Javascript Snippets of Code",
+  "main": "index.js",
+  "scripts": {
+    "lintJs": "npx eslint --ignore-path .gitignore .",
+    "test": "echo 'Error: no test specified' && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fernandocanizo/vanilla-js-toolkit.git"
+  },
+  "keywords": [
+    "javascript",
+    "vanilla",
+    "library"
+  ],
+  "author": "Fernando L. Canizo <fernandocanizo@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fernandocanizo/vanilla-js-toolkit/issues"
+  },
+  "homepage": "https://github.com/fernandocanizo/vanilla-js-toolkit#readme",
+  "devDependencies": {
+    "eslint": "^5.2.0"
+  }
+}
